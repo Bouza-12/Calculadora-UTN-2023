@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmCalculadora));
             lblResultado = new Label();
             grpDecimalBinario = new GroupBox();
             radBinario = new RadioButton();
@@ -38,6 +39,9 @@
             label1 = new Label();
             label2 = new Label();
             label3 = new Label();
+            btnOperar = new Button();
+            btnLimpiar = new Button();
+            btnCerrar = new Button();
             grpDecimalBinario.SuspendLayout();
             SuspendLayout();
             // 
@@ -95,7 +99,7 @@
             // txtOperandoDos
             // 
             txtOperandoDos.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            txtOperandoDos.Location = new Point(364, 260);
+            txtOperandoDos.Location = new Point(373, 260);
             txtOperandoDos.Name = "txtOperandoDos";
             txtOperandoDos.Size = new Size(130, 29);
             txtOperandoDos.TabIndex = 3;
@@ -138,11 +142,42 @@
             label3.TabIndex = 7;
             label3.Text = "Operador:";
             // 
+            // btnOperar
+            // 
+            btnOperar.Location = new Point(76, 295);
+            btnOperar.Name = "btnOperar";
+            btnOperar.Size = new Size(112, 36);
+            btnOperar.TabIndex = 8;
+            btnOperar.Text = "Operar";
+            btnOperar.UseVisualStyleBackColor = true;
+            // 
+            // btnLimpiar
+            // 
+            btnLimpiar.Location = new Point(225, 295);
+            btnLimpiar.Name = "btnLimpiar";
+            btnLimpiar.Size = new Size(112, 36);
+            btnLimpiar.TabIndex = 9;
+            btnLimpiar.Text = "Limpiar";
+            btnLimpiar.UseVisualStyleBackColor = true;
+            // 
+            // btnCerrar
+            // 
+            btnCerrar.Location = new Point(382, 295);
+            btnCerrar.Name = "btnCerrar";
+            btnCerrar.Size = new Size(112, 36);
+            btnCerrar.TabIndex = 10;
+            btnCerrar.Text = "Cerrar";
+            btnCerrar.UseVisualStyleBackColor = true;
+            btnCerrar.Click += button1_Click;
+            // 
             // FrmCalculadora
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(584, 361);
+            Controls.Add(btnCerrar);
+            Controls.Add(btnLimpiar);
+            Controls.Add(btnOperar);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
@@ -152,6 +187,7 @@
             Controls.Add(grpDecimalBinario);
             Controls.Add(lblResultado);
             FormBorderStyle = FormBorderStyle.FixedSingle;
+            Icon = (Icon)resources.GetObject("$this.Icon");
             MaximizeBox = false;
             MinimizeBox = false;
             Name = "FrmCalculadora";
@@ -175,5 +211,8 @@
         private Label label1;
         private Label label2;
         private Label label3;
+        private Button btnOperar;
+        private Button btnLimpiar;
+        private Button btnCerrar;
     }
 }
