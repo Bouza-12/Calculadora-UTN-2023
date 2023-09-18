@@ -76,6 +76,7 @@
             radBinario.TabStop = true;
             radBinario.Text = "Binario";
             radBinario.UseVisualStyleBackColor = true;
+            radBinario.CheckedChanged += radBinario_CheckedChanged;
             // 
             // radDecimal
             // 
@@ -87,6 +88,7 @@
             radDecimal.TabStop = true;
             radDecimal.Text = "Decimal";
             radDecimal.UseVisualStyleBackColor = true;
+            radDecimal.CheckedChanged += radDecimal_CheckedChanged;
             // 
             // txtOperandoUno
             // 
@@ -150,6 +152,7 @@
             btnOperar.TabIndex = 8;
             btnOperar.Text = "Operar";
             btnOperar.UseVisualStyleBackColor = true;
+            btnOperar.Click += btnOperar_Click;
             // 
             // btnLimpiar
             // 
