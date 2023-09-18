@@ -159,6 +159,7 @@
             btnLimpiar.TabIndex = 9;
             btnLimpiar.Text = "Limpiar";
             btnLimpiar.UseVisualStyleBackColor = true;
+            btnLimpiar.Click += btnLimpiar_Click;
             // 
             // btnCerrar
             // 
@@ -193,6 +194,7 @@
             Name = "FrmCalculadora";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Calculadora Alumno: Alejandro García Bouzada";
+            Load += FrmCalculadora_Load;
             grpDecimalBinario.ResumeLayout(false);
             grpDecimalBinario.PerformLayout();
             ResumeLayout(false);
