@@ -64,7 +64,7 @@ namespace Calculadora_UTN
                 primerOperando = new Numeracion(txtOperandoUno.Text, ESistema.Decimal);
                 segundoOperando = new Numeracion(txtOperandoDos.Text, ESistema.Decimal);
                 calculadora = new Operacion(this.primerOperando, this.segundoOperando);
-                if(txtOperandoDos.Text == "0" && cboxOperador.Text == "/")
+                if (txtOperandoDos.Text == "0" && cboxOperador.Text == "/")
                 {
                     MessageBox.Show("No se puede dividir por 0", "División por cero", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
@@ -78,7 +78,7 @@ namespace Calculadora_UTN
                     }
                     else
                     {
-                        
+
                         lblResultado.Text = $"Resultado: {resultado.ConvertirA(ESistema.Binario)}";
 
                     }
@@ -103,11 +103,20 @@ namespace Calculadora_UTN
         private void radDecimal_CheckedChanged(object sender, EventArgs e)
         {
             this.sistema = ESistema.Decimal;
-            if(txtOperandoDos is not null && txtOperandoUno is not null)
+            if (txtOperandoDos is not null && txtOperandoUno is not null)
             {
-            this.setResultado();
+                this.setResultado();
             }
 
+        }
+
+        private void FrmCalculadora_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult dialog = MessageBox.Show("Desea cerrar la calculadora?", "Cerrar", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
+            if (dialog == DialogResult.Cancel)
+            {
+                e.Cancel = true;
+            }
         }
     }
 }

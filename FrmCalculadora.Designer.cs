@@ -197,6 +197,7 @@
             Name = "FrmCalculadora";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Calculadora Alumno: Alejandro García Bouzada";
+            FormClosing += FrmCalculadora_FormClosing;
             Load += FrmCalculadora_Load;
             grpDecimalBinario.ResumeLayout(false);
             grpDecimalBinario.PerformLayout();
