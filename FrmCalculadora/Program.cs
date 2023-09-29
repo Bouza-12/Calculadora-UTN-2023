@@ -1,4 +1,4 @@
-namespace Calculadora_UTN
+namespace FrmCalculadora
 {
     internal static class Program
     {

@@ -1,0 +1,40 @@
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\FrmCalculadora\bin\Debug\net6.0-windows\FrmCalculadora.exe
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\FrmCalculadora\bin\Debug\net6.0-windows\FrmCalculadora.deps.json
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\FrmCalculadora\bin\Debug\net6.0-windows\FrmCalculadora.runtimeconfig.json
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\FrmCalculadora\bin\Debug\net6.0-windows\FrmCalculadora.dll
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\FrmCalculadora\bin\Debug\net6.0-windows\FrmCalculadora.pdb
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\FrmCalculadora\bin\Debug\net6.0-windows\Entidades.dll
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\FrmCalculadora\bin\Debug\net6.0-windows\Entidades.pdb
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\FrmCalculadora\obj\Debug\net6.0-windows\FrmCalculadora.csproj.AssemblyReference.cache
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\FrmCalculadora\obj\Debug\net6.0-windows\FrmCalculadora.FrmCalculadora.resources
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\FrmCalculadora\obj\Debug\net6.0-windows\FrmCalculadora.csproj.GenerateResource.cache
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\FrmCalculadora\obj\Debug\net6.0-windows\FrmCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\FrmCalculadora\obj\Debug\net6.0-windows\FrmCalculadora.AssemblyInfoInputs.cache
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\FrmCalculadora\obj\Debug\net6.0-windows\FrmCalculadora.AssemblyInfo.cs
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\FrmCalculadora\obj\Debug\net6.0-windows\FrmCalculadora.csproj.CoreCompileInputs.cache
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\FrmCalculadora\obj\Debug\net6.0-windows\FrmCalculadora.csproj.CopyComplete
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\FrmCalculadora\obj\Debug\net6.0-windows\FrmCalculadora.dll
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\FrmCalculadora\obj\Debug\net6.0-windows\refint\FrmCalculadora.dll
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\FrmCalculadora\obj\Debug\net6.0-windows\FrmCalculadora.pdb
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\FrmCalculadora\obj\Debug\net6.0-windows\FrmCalculadora.genruntimeconfig.cache
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\FrmCalculadora\obj\Debug\net6.0-windows\ref\FrmCalculadora.dll
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\FrmCalculadora\bin\Debug\net6.0-windows\FrmCalculadora.exe
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\FrmCalculadora\bin\Debug\net6.0-windows\FrmCalculadora.deps.json
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\FrmCalculadora\bin\Debug\net6.0-windows\FrmCalculadora.runtimeconfig.json
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\FrmCalculadora\bin\Debug\net6.0-windows\FrmCalculadora.dll
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\FrmCalculadora\bin\Debug\net6.0-windows\FrmCalculadora.pdb
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\FrmCalculadora\bin\Debug\net6.0-windows\Entidades.dll
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\FrmCalculadora\bin\Debug\net6.0-windows\Entidades.pdb
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\FrmCalculadora\obj\Debug\net6.0-windows\FrmCalculadora.csproj.AssemblyReference.cache
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\FrmCalculadora\obj\Debug\net6.0-windows\FrmCalculadora.FrmCalculadora.resources
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\FrmCalculadora\obj\Debug\net6.0-windows\FrmCalculadora.csproj.GenerateResource.cache
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\FrmCalculadora\obj\Debug\net6.0-windows\FrmCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\FrmCalculadora\obj\Debug\net6.0-windows\FrmCalculadora.AssemblyInfoInputs.cache
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\FrmCalculadora\obj\Debug\net6.0-windows\FrmCalculadora.AssemblyInfo.cs
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\FrmCalculadora\obj\Debug\net6.0-windows\FrmCalculadora.csproj.CoreCompileInputs.cache
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\FrmCalculadora\obj\Debug\net6.0-windows\FrmCalculadora.csproj.CopyComplete
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\FrmCalculadora\obj\Debug\net6.0-windows\FrmCalculadora.dll
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\FrmCalculadora\obj\Debug\net6.0-windows\refint\FrmCalculadora.dll
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\FrmCalculadora\obj\Debug\net6.0-windows\FrmCalculadora.pdb
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\FrmCalculadora\obj\Debug\net6.0-windows\FrmCalculadora.genruntimeconfig.cache
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\FrmCalculadora\obj\Debug\net6.0-windows\ref\FrmCalculadora.dll

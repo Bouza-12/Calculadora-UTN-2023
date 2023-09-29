@@ -1,4 +1,6 @@
-﻿namespace Calculadora_UTN
+﻿using System.Resources;
+
+namespace FrmCalculadora
 {
     partial class FrmCalculadora
     {
@@ -28,7 +30,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmCalculadora));
             lblResultado = new Label();
             grpDecimalBinario = new GroupBox();
             radBinario = new RadioButton();
@@ -191,7 +192,6 @@
             Controls.Add(grpDecimalBinario);
             Controls.Add(lblResultado);
             FormBorderStyle = FormBorderStyle.FixedSingle;
-            Icon = (Icon)resources.GetObject("$this.Icon");
             MaximizeBox = false;
             MinimizeBox = false;
             Name = "FrmCalculadora";

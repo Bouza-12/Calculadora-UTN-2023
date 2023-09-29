@@ -1,0 +1,24 @@
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\Entidades\bin\Debug\net6.0\Entidades.deps.json
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\Entidades\bin\Debug\net6.0\Entidades.dll
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\Entidades\bin\Debug\net6.0\Entidades.pdb
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\Entidades\obj\Debug\net6.0\Entidades.csproj.AssemblyReference.cache
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\Entidades\obj\Debug\net6.0\Entidades.dll
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\Entidades\obj\Debug\net6.0\Entidades.pdb
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\UTN Calculadora 2023\Entidades\obj\Debug\net6.0\ref\Entidades.dll
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\Entidades\bin\Debug\net6.0\Entidades.deps.json
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\Entidades\bin\Debug\net6.0\Entidades.dll
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\Entidades\bin\Debug\net6.0\Entidades.pdb
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\Entidades\obj\Debug\net6.0\Entidades.csproj.AssemblyReference.cache
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\Entidades\obj\Debug\net6.0\Entidades.dll
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\Entidades\obj\Debug\net6.0\Entidades.pdb
+D:\Documents\Eclipse\UTN\2023\Laboratorio 2\Calculadora UTN\Entidades\obj\Debug\net6.0\ref\Entidades.dll

@@ -1,6 +1,6 @@
 using Entidades;
 
-namespace Calculadora_UTN
+namespace FrmCalculadora
 {
     public partial class FrmCalculadora : Form
     {
@@ -23,11 +23,7 @@ namespace Calculadora_UTN
         /// <param name="e"></param>
         private void button1_Click(object sender, EventArgs e)
         {
-            DialogResult dialog = MessageBox.Show("Desea cerrar la calculadora?", "Cerrar", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
-            if (dialog == DialogResult.OK)
-            {
-                this.Close();
-            }
+            this.Close();
         }
 
         /// <summary>
